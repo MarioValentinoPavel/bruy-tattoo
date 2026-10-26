@@ -1,0 +1,23 @@
+window.I18N_EN = {
+  skip: 'Skip to content', n1: 'Artists', n2: 'Work', n3: 'Styles', n4: 'Studio',
+  claim: 'Two friends, one studio, a lot of art.',
+  hp: 'Tattoo studio in Lloret de Mar. Douglas, from Brazil, and Sebastián, from Uruguay, turn your idea into a tattoo you will want to show off.',
+  quote: 'Get a quote', see: 'See our work',
+  cansL: 'Paint the wall', cansT: 'Paint the wall', c1: 'Brazil green', c2: 'Brazil yellow', c3: 'Uruguay blue', c5: 'Red', c6: 'White', clean: 'Clean', hint: 'Hold down and move the machine to paint',
+  amAlt: 'Douglas and Sebastián together at the BrUy studio',
+  amh: 'Brazil and Uruguay, in Lloret de Mar',
+  amp: 'BrUy is the union of two friends and two countries: BR for Brazil and UY for Uruguay. They are with you through the whole process, from the moment you arrive with your idea until you see it on your skin, adapting to what you want with several designs and sizes.',
+  f1: '28 reviews on Google', f2: 'we opened our doors', f3b: 'Tattoo + piercing', f3: 'in the same studio',
+  arh: 'Artists', dgAlt: 'Douglas wearing a cap and sunglasses', sbAlt: 'Sebastián tattooing, focused, in black and white',
+  tbh: 'Work from the studio',
+  w1: 'Gangster monkey with hat and guns, black and grey', w2: 'Memento Mori lettering on the stomach', w3: 'Realism on the shoulder with faces and details', w4: 'Cartoon-style squirrel in colour on the forearm', w5: 'Black and grey butterfly on the shoulder', w6: 'Colour leg tattoo with the word Champion', w7: 'Tattooing a back at the studio',
+  more: 'More on Instagram',
+  esh: 'What we do', e1: 'Realism', e5: 'Lettering and typography', e6: 'Colour', e8: 'Custom design',
+  h1h: 'Send us your idea', h1p: 'On WhatsApp or Instagram DM: what you want, where and how big. We send you a quote.',
+  h2h: 'Several designs', h2p: 'We suggest designs and sizes until we find yours.',
+  h3h: 'Tattoo day', h3p: 'A clean, tidy space, good vibes and aftercare explained.',
+  rsh: '5.0 on Google',
+  fach: 'Studio front with the colourful BrUy Tattoo logo',
+  vsh: 'Carrer del Rector Coch, 14', d1: 'Monday to Friday', d2: 'Saturday', d3: 'Sunday', closed: 'Closed', d4: 'Contact', route: 'Directions',
+  lg1: 'Legal notice', lg2: 'Privacy', lg3: 'Cookies', lg4: 'Cookie settings'
+};
